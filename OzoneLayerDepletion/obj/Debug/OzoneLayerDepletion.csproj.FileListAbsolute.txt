@@ -1,0 +1,10 @@
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\OzoneLayerDepletion\OzoneLayerDepletion\bin\Debug\OzoneLayerDepletion.exe.config
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\OzoneLayerDepletion\OzoneLayerDepletion\bin\Debug\OzoneLayerDepletion.exe
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\OzoneLayerDepletion\OzoneLayerDepletion\bin\Debug\OzoneLayerDepletion.pdb
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\OzoneLayerDepletion\OzoneLayerDepletion\obj\Debug\OzoneLayerDepletion.csprojAssemblyReference.cache
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\OzoneLayerDepletion\OzoneLayerDepletion\obj\Debug\OzoneLayerDepletion.ozoneDepletionForm.resources
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\OzoneLayerDepletion\OzoneLayerDepletion\obj\Debug\OzoneLayerDepletion.Properties.Resources.resources
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\OzoneLayerDepletion\OzoneLayerDepletion\obj\Debug\OzoneLayerDepletion.csproj.GenerateResource.cache
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\OzoneLayerDepletion\OzoneLayerDepletion\obj\Debug\OzoneLayerDepletion.csproj.CoreCompileInputs.cache
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\OzoneLayerDepletion\OzoneLayerDepletion\obj\Debug\OzoneLayerDepletion.exe
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\OzoneLayerDepletion\OzoneLayerDepletion\obj\Debug\OzoneLayerDepletion.pdb
